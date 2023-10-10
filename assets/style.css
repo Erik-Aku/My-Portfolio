@@ -147,6 +147,7 @@ body {
 
 }
 
+
 .work-figcaption {
      position: relative;
     top: -45px;
@@ -245,11 +246,6 @@ body {
     padding-right: 10px;  
 }
 
-/* .contact-me-links {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-} */
 
 .contact-me-links ul li {
     text-decoration: underline;
@@ -269,13 +265,13 @@ body {
     padding-left: 0px;
 }
 
-/* .contact-me-links ul {
-    margin-top: 80px;
-    margin-bottom: 50px;
-} */
 
 .flexbox-item-12 {
     min-height: 100px;
     width: 1100px; 
     margin-bottom: 50px;
 }
+
+.image-hover:hover {
+    opacity: 0.5;
+    }
