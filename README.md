@@ -7,6 +7,7 @@ This website includes my picture, contact information, a summary about myself, a
 
 ## Installation
 
-The project is deployed to GitHub Pages:
+The project is deployed to GitHub Pages: https://erik-aku.github.io/My-Portfolio/
+
 
 ![finalscreenshot](https://github.com/Erik-Aku/My-Portfolio/assets/92487526/ced98113-7be0-4871-9e50-3a377bf6524c)
